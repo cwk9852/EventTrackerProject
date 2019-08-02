@@ -3,7 +3,7 @@
 ### Summary / Overview
 
 ### Technologies used
-* Spring MVC
+* Spring Rest API
 * JPA/Hibernate/JPQL
 * MySQL
 
