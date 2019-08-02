@@ -3,16 +3,13 @@
 ### Summary / Overview
 
 ### REST API Endpoints
-|HTTP Verb| Resource URI | Action |
-| --------|--------------| -------|
-| GET    | /api/outbreaks      | Retrieve all outbreaks |
-| GET    | /api/outbreaks/{id} | Retrieve an outbreak |
-| POST   | /api/outbreaks      | Post a new outbreak |
-| PUT    | /api/outbreaks/{id} | Replace an outbreak  |
-| DELETE | /api/outbreaks/{id} | Delete an outbreak |
-
-
-
+| Action    |HTTP Verb| Resource URI        |       Action           |
+| ----------|---------|---------------------| -----------------------|
+| LIST      | GET     | /api/outbreaks      | Retrieve all outbreaks |
+| READ      | GET     | /api/outbreaks/{id} | Retrieve an outbreak   |
+| CREATE    | POST    | /api/outbreaks      | Post a new outbreak    |
+| REPLACE   | PUT     | /api/outbreaks/{id} | Replace an outbreak    |
+| UPDATE    | DELETE  | /api/outbreaks/{id} | Delete an outbreak     |
 
 ### Technologies used
 * Spring Rest API
