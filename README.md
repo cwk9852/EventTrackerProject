@@ -1,6 +1,15 @@
 ## EventTrackerProject
 
 ### Summary / Overview
+TODO:
+Finalize Schema Design
+Complete Entity Class(es), Test All
+Repository 
+Service
+Controller
+Test all API endpoints in Postman
+Readme
+Deploy to EC2
 
 ### REST API Endpoints
 | Action    |HTTP Verb| Resource URI        |       Action                   |
