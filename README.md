@@ -1,7 +1,7 @@
 ## EventTrackerProject
 
 ### Summary / Overview
-This project is an outbreak tracker. It is currently a single table database with the potential to separate tables if further developed. The end vision for the project is a front end output to a map/table, that can be filtered by date ranges and disease. I would like to additionally be able to plot different diseases from different time periods on the same map.
+This project is an outbreak tracker. It is currently a single table database with the potential to separate tables if further developed. The end vision for the project is a front end output to a map and table that can be filtered by date ranges and disease, with the ability to to overlay different diseases across different time periods on the same map.
 
 ### REST API Endpoints
 | Action    |HTTP Verb| Resource URI        |       Action                   |
