@@ -17,8 +17,8 @@ This project is an outbreak tracker. It is currently a single table database wit
 * JPA/Hibernate/JPQL
 * MySQL
 
-### Lessons Learned
-Spring REST services and repository
+### Deployed Application
+http://3.130.50.134:8080/OutbreakTracker/api/outbreaks/
 
 ### Entity Diagram
 ![Outbreak](outbreak.png)
