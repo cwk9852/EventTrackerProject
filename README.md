@@ -1,6 +1,7 @@
 ## EventTrackerProject
 
 ### Summary / Overview
+This project is an outbreak tracker. It is currently a single table database with columns 
 TODO:
 Finalize Schema Design
 Complete Entity Class(es), Test All
