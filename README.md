@@ -20,6 +20,5 @@ This project is an outbreak tracker. It is currently a single table database wit
 ### Lessons Learned
 Spring REST services and repository
 
-
 ### Entity Diagram
 ![Outbreak](outbreak.png)
