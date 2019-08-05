@@ -1,16 +1,7 @@
 ## EventTrackerProject
 
 ### Summary / Overview
-This project is an outbreak tracker. It is currently a single table database with columns 
-TODO:
-Finalize Schema Design
-Complete Entity Class(es), Test All
-Repository 
-Service
-Controller
-Test all API endpoints in Postman
-Readme
-Deploy to EC2
+This project is an outbreak tracker. It is currently a single table database with columns.
 
 ### REST API Endpoints
 | Action    |HTTP Verb| Resource URI        |       Action                   |
@@ -28,5 +19,5 @@ Deploy to EC2
 
 ### Lessons Learned
 
-### Database Diagram
-<!-- ![Tripping](trippingdb.png) -->
+### Entity Diagram
+![Outbreak](outbreak.png)

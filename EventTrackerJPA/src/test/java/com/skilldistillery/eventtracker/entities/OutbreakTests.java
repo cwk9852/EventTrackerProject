@@ -44,10 +44,11 @@ class OutbreakTests {
 	}
 
 	@Test
-	@DisplayName(value = "Dummy Mappings Test")
+	@DisplayName(value = "Outbreak Mappings Test")
 	void test_Dummy_mappings() {
 		assertNotNull(outbreak);
 		assertEquals(1, outbreak.getId());
+		assertEquals("Other Animal Disease",outbreak.getDisease());
 	}
 	
 }
