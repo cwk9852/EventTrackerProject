@@ -12,7 +12,7 @@ This project is an outbreak tracker. It is currently a single table database wit
 | REPLACE   | PUT     | /api/outbreaks/{id} | Replace an outbreak            |
 | DELETE    | DELETE  | /api/outbreaks/{id} | Delete an outbreak             |
 
-### Technologies used
+### Technologies Used
 * Spring Rest API
 * JPA/Hibernate/JPQL
 * MySQL

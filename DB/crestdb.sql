@@ -21,7 +21,7 @@ USE `crestdb` ;
 DROP TABLE IF EXISTS `outbreak` ;
 
 CREATE TABLE IF NOT EXISTS `outbreak` (
-  `id` INT NOT NULL,
+  `id` INT NOT NULL AUTO_INCREMENT,
   `source` VARCHAR(450) NULL,
   `date` DATETIME NULL,
   `summary` TEXT NULL,
